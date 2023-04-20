@@ -4,6 +4,8 @@
 ## LAB - 8  Unit Testing with JUnit
 
 ### 1.   Create a new Eclipse project, and within the project create a package and defining class in given lab exercise pdf.
+![image](https://user-images.githubusercontent.com/107188205/233334250-273f606f-4c91-45cc-a005-8211176901a9.png)
+
 ### 2.   Create a class for a Boa.
 ![image](https://user-images.githubusercontent.com/107188205/233314152-593c110d-2b7e-4d27-ae70-4c5ea057cb9b.png)
 
@@ -91,9 +93,10 @@
 		    }
 	}
 
-### 8 
-![image](https://user-images.githubusercontent.com/107188205/233333844-08831db5-c439-49e0-94e5-1192c1e89816.png)
+### 8 Then I wrote another test case for this new method and ran the 3 test cases together.
+![image](https://user-images.githubusercontent.com/107188205/233334587-41b30b66-196c-4f5c-aa68-ff38a62e4719.png)
 
 
+Thus, test cases have been written for the given Boa class and all the three methods have been tested with required Junit test cases.
 
 
